@@ -22,4 +22,9 @@
         android:name="fernando.morales.catalogo_1.ui.notifications.NotificationsFragment"
         android:label="@string/title_notifications"
         tools:layout="@layout/fragment_notifications" />
+    <fragment
+        android:id="@+id/ajustes"
+        android:name="fernando.morales.catalogo_1.Ajustes"
+        android:label="fragment_ajustes"
+        tools:layout="@layout/fragment_ajustes" />
 </navigation>
